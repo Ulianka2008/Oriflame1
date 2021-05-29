@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color:rgb(213, 168, 250);
+}
+p{
+    color:rgb(174, 232, 255);
+}
+h1{
+    color:rgb(149, 216, 172);
+}
+b{
+    color:rgb(255, 171, 171);
+}
+nav a{
+    background-color: rgb(223, 205, 255) ;
+    color: rgb(248, 255, 193);
+    text-decoration: none;
+    margin: 20px;
+
+}
